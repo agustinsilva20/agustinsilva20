@@ -1,8 +1,4 @@
 
-
-
-- 📫 How to reach me ...
-
 Hi 👋 , My name is Agustin Silva and I´m from Argentina.
 Welcome to my GitHub page. I´m a 22 years old software engineer student at Universidad Argentina de la Empresa (UADE).
 Currently im working for Accenture as a software developer.
